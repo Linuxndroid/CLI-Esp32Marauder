@@ -18,7 +18,7 @@ The ESP32 Command Line Interface (CLI) allows developers to interact with the ES
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEHxYB3OP_ucyOGpoRY0oR-Z2XMoZLVXFDRWTcEafRlmoNuXsKt-jHYaKCl5v32QhyrGcQolZ9_JE52dEnibuBK2JL8XAon6htzstgI1wEknYulXyQb9QLgSRA01opPf1tJt_9WtQEYFJkLnKA6Q5q2WrrLOmAcx1-exTRELFLVH8M__2LeRmvOKItMDJ_/s16000/4.png"><br>
 
 # How To Use
-- Now Open Our CLI Terminal For Use ESP32marauder 
+- Now Open Our CLI Terminal For Use ESP32marauder[CLI Terminal](https://linuxndroid.github.io/CLI-Esp32Marauder/)
 - Available Pre Command For WiFi Penetration
 - More Info Check Wiki [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware) 
 <p align="center">
@@ -26,12 +26,14 @@ The ESP32 Command Line Interface (CLI) allows developers to interact with the ES
 
 # Disclaimer
 <b>Linuxndroid Provides no warranty with this software and will not be responsible for any direct or indirect damage caused due to the usage of this tool.<br>
-DroidSpy is built for both Educational and Internal use ONLY.</b>
+Esp32CLI is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="https://www.youtube.com/channel/UC2O1Hfg-dDCbUcau5QWGcgg">Linuxndroid</a></p>
 
 # Credit [justcallmekoko](https://github.com/justcallmekoko)
+
+# Available Our [Hacking Course](https://linuxndroid.in)
 
 # Follow Me on :
 
