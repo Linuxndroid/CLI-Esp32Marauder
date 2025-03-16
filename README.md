@@ -18,9 +18,9 @@ The ESP32 Command Line Interface (CLI) allows developers to interact with the ES
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjEHxYB3OP_ucyOGpoRY0oR-Z2XMoZLVXFDRWTcEafRlmoNuXsKt-jHYaKCl5v32QhyrGcQolZ9_JE52dEnibuBK2JL8XAon6htzstgI1wEknYulXyQb9QLgSRA01opPf1tJt_9WtQEYFJkLnKA6Q5q2WrrLOmAcx1-exTRELFLVH8M__2LeRmvOKItMDJ_/s16000/4.png"><br>
 
 # How To Use
-Now Open Our CLI Terminal For Use ESP32marauder 
-Available Pre Command For WiFi Penetration
-More Info Check Wiki [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware) 
+- Now Open Our CLI Terminal For Use ESP32marauder 
+- Available Pre Command For WiFi Penetration
+- More Info Check Wiki [ESP32Marauder](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware) 
 <p align="center">
 <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmDPCarHLD-ZyFmOaVukJpZv1EXjJgE1qh7ueGYSnooclaFKJ1Op1ygTbsyvDM5fPReDzdWOaF20m9tvR9Jh44RWB8Z1g1gwI0K-_lCO0Ya7IQ5AWXkKjf60ayPRHj2iLgQtYrlVVsMcZx0XUwD2_c4WXWgCswZYoPiSCNz_fnwgrj5KOS4s8inQyZaZNX/s16000/2.png"><br>
 
